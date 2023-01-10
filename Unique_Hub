@@ -1,3 +1,3 @@
 return {
-  projectnewworld = false,
+  projectnewworld = true,
 }
